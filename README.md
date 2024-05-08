@@ -11,7 +11,7 @@ I've been a Software Developer for 5 years now. My work primarily involves devel
 🌱 Recently, I've been focusing on Large Language Models (LLMs), Langchain, vector databases, and Retrieval-Augmented Generation (RAG).
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,dotnet,cs,py,docker,git,wpf,react,fastapi,notion,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,dotnet,cs,py,docker,git,react,fastapi,notion,postgres)](https://skillicons.dev)
 
 ## 📬 Get in Touch
 👯 If you share a passion for these technologies or are intrigued by them, I would love to connect with you. Whether it’s sharing knowledge, discussing DDD, or potential collaboration, feel free to reach out!
