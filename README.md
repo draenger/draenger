@@ -1,8 +1,6 @@
 # Hi there 👋
 I'm Daniel, a software developer deeply interested in software architecture and LLM's.
 
-![draenger's Stats](https://github-readme-stats.vercel.app/api?username=draenger&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 I've been a Software Developer for 5 years now. My work primarily involves developing backend APIs written in .NET Core.
 
