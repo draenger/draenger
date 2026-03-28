@@ -6,7 +6,9 @@
 🔧 Day job: building enterprise multi-agent AI on **Microsoft Agentic Framework**
 🚀 After hours: shipping my own products & writing a custom agent framework from scratch
 
-## 🛠 What I work with
+## 🛠 Tech Stack
+
+[![My Skills](https://skillicons.dev/icons?i=python,dotnet,cs,react,ts,docker,postgres,azure,fastapi,electron,git,vscode)](https://skillicons.dev)
 
 **AI / Agents:** Microsoft Agentic Framework · AutoGen · Azure AI Foundry · RAG · Custom Agent Framework
 **Backend:** Python / FastAPI · .NET 10 / C# · PostgreSQL + pgvector · Neo4j · RabbitMQ
