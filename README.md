@@ -8,12 +8,43 @@
 
 ## 🛠 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,dotnet,cs,react,ts,docker,postgres,azure,fastapi,electron,git,vscode)](https://skillicons.dev)
+### AI / Agents
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Agentic_Framework-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Custom_Agent_Framework-00e5ff?style=for-the-badge&logo=robot-framework&logoColor=black" />
+</p>
 
-**AI / Agents:** Microsoft Agentic Framework · AutoGen · Azure AI Foundry · RAG · Custom Agent Framework
-**Backend:** Python / FastAPI · .NET 10 / C# · PostgreSQL + pgvector · Neo4j · RabbitMQ
-**Frontend:** React 19 · TypeScript · Electron · Tailwind CSS
-**Tools:** Claude Code · Cursor · Docker · Azure · CI/CD
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python" height="32" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="32" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="32" />
+  <img src="https://skillicons.dev/icons?i=cs" height="32" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="32" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="32" />
+  <img src="https://skillicons.dev/icons?i=ts" height="32" />
+  <img src="https://skillicons.dev/icons?i=electron" height="32" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="32" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-d4a574?style=for-the-badge&logo=anthropic&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker" height="32" />
+  <img src="https://skillicons.dev/icons?i=azure" height="32" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="32" />
+</p>
 
 ## 🚀 Projects
 
