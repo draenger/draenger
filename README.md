@@ -1,31 +1,28 @@
-# Hi there 👋
-I'm Daniel, a software developer deeply interested in software architecture and LLM's.
+# Hey, I'm Daniel 👋
 
-## 🚀 About Me
-I've been a Software Developer for 5 years now. My work primarily involves developing backend APIs written in .NET Core.
+**Senior Software Developer** from Silesia, Poland.
+5+ years in the industry, last 3 deep in **AI/ML and agentic systems**.
 
-## 🌱 Currently Exploring
-🔭 My current goal is to develop an assistant based on Retrieval-Augmented Generation (RAG) and various automations to accelerate my workflow. This project aims to leverage cutting-edge technology to streamline processes and increase efficiency in my daily tasks.
-🌱 Recently, I've been focusing on Large Language Models (LLMs), Langchain, vector databases, and Retrieval-Augmented Generation (RAG).
+🔧 Day job: building enterprise multi-agent AI on **Microsoft Agentic Framework**
+🚀 After hours: shipping my own products & writing a custom agent framework from scratch
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,dotnet,cs,py,docker,git,react,fastapi,notion,postgres)](https://skillicons.dev)
+## 🛠 What I work with
 
-## 📬 Get in Touch
-👯 If you share a passion for these technologies or are intrigued by them, I would love to connect with you. Whether it’s sharing knowledge, discussing DDD, or potential collaboration, feel free to reach out!
+**AI / Agents:** Microsoft Agentic Framework · AutoGen · Azure AI Foundry · RAG · Custom Agent Framework
+**Backend:** Python / FastAPI · .NET 10 / C# · PostgreSQL + pgvector · Neo4j · RabbitMQ
+**Frontend:** React 19 · TypeScript · Electron · Tailwind CSS
+**Tools:** Claude Code · Cursor · Docker · Azure · CI/CD
 
-<!--
-**draenger/draenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects
 
-Here are some ideas to get you started:
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[Rezme](https://rezme.dev)** | AI-powered CV platform — upload a job offer, get a tailored CV | React 19, .NET 10, Python, Azure AI, pgvector |
+| **Suzie AI** | Personal Jarvis — desktop voice assistant with multi-agent architecture | Electron, React, Python, Custom Agent Framework, Neo4j |
+| **Whisperio** | Global dictation for Windows — hotkey → speak → text in any app | Python, STT, pay-per-use |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Let's connect
 
+[![Portfolio](https://img.shields.io/badge/danielkasprzyk.com-060a0f?style=for-the-badge&logo=google-chrome&logoColor=00e5ff)](https://danielkasprzyk.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kasprzyk/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/draenger)
