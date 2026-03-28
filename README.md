@@ -1,10 +1,10 @@
 # Hey, I'm Daniel 👋
 
 **Senior Software Developer** from Silesia, Poland.
-5+ years in the industry, last 3 deep in **AI/ML and agentic systems**.
+5+ years in the industry. 3 years exploring and experimenting with **Generative AI** — last year building commercial GenAI solutions.
 
 🔧 Day job: building enterprise multi-agent AI on **Microsoft Agentic Framework**
-🚀 After hours: shipping my own products & writing a custom agent framework from scratch
+🚀 After hours: shipping my own products — from SaaS to personal assistants to open-source tools
 
 ## Tech Stack
 
@@ -29,7 +29,7 @@
 |---------|-------------|-------|
 | **[Rezme](https://rezme.dev)** | AI-powered CV platform — upload a job offer, get a tailored CV | React 19, .NET 10, Python, Azure AI, pgvector |
 | **Suzie AI** | Personal Jarvis — desktop voice assistant with multi-agent architecture | Electron, React, Python, Custom Agent Framework, Neo4j |
-| **Whisperio** | Global dictation for Windows — hotkey → speak → text in any app | Python, STT, pay-per-use |
+| **[Whisperio](https://danielkasprzyk.com/whisperio/)** | Global dictation for Windows — hotkey → speak → text in any app (open source) | Python, STT, pay-per-use |
 
 ## Let's connect
 
