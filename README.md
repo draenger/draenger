@@ -1,44 +1,44 @@
-# Hey, I'm Daniel 👋
+# Daniel Kasprzyk
 
-**Senior Software Developer** from Silesia, Poland.
-5+ years in the industry. 3 years exploring and experimenting with **Generative AI** — last year building commercial GenAI solutions.
+Senior Software Developer from Silesia, Poland. About five years of commercial work, the last three of them in AI and ML.
 
-🔧 Day job: building enterprise multi-agent AI on **Microsoft Agentic Framework**
-🚀 After hours: shipping my own products — from SaaS to personal assistants to open-source tools
+At work I build enterprise AI assistants and RAG systems on Azure: .NET and Python services, Semantic Kernel, Azure AI Search, and OpenTelemetry tracing so you can see what the model actually did.
 
-## Tech Stack
+After hours I build and ship my own products, mostly alone, with a setup of AI coding agents doing a lot of the implementation while I plan, review and test.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,dotnet,cs,react,ts,electron,tailwind,docker,azure,postgres,githubactions" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Microsoft_Agentic_Framework-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_AI_Foundry-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=elasticsearch&logoColor=white" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-d4a574?style=for-the-badge&logo=anthropic&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
+## Stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,ts,py,swift,kotlin" alt="C#, TypeScript, Python, Swift, Kotlin" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=dotnet,fastapi,nodejs" alt=".NET, FastAPI, Node.js" />
+
+**Web, desktop and mobile**
+
+<img src="https://skillicons.dev/icons?i=react,next,vite,tailwind,electron,unity" alt="React, Next.js, Vite, Tailwind CSS, Electron, Unity" />
+
+**Infra and data**
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,githubactions,azure,linux" alt="PostgreSQL, Redis, Docker, nginx, GitHub Actions, Azure, Linux" />
+
+Also: SwiftUI, Jetpack Compose and Wear OS, Playwright, pgvector, OpenAI and Anthropic APIs, ElevenLabs, ffmpeg, Hetzner.
 
 ## Projects
 
-| Project | Status | Description | Stack |
-|---------|--------|-------------|-------|
-| **[Rezme](https://rezme.dev)** | 🚧 Unreleased | AI-powered CV platform — upload a job offer, get a tailored CV + cover letter | React 19, .NET 10, Python, Azure AI, pgvector, Langfuse |
-| **Suzie AI** | 🔒 Personal | My personal Jarvis — desktop voice assistant with multi-agent architecture, STT/TTS, RAG, Spotify | Electron, Python, Neo4j, ElevenLabs, Custom Agent Framework |
-| **AI News Digest** | 🌐 Public | Free app for browsing AI & LLM news — scrapes sources, publishes daily/weekly digests | .NET 10, Next.js, Scraping |
-| **[Whisperio](https://danielkasprzyk.com/whisperio/)** | 🟢 Released | Global dictation for Windows — hotkey → speak → text in any app, pay-per-use | Python, STT |
-| **Husar** | 🚧 Unreleased | Offline-first fitness tracker for iOS & Apple Watch — AI coaching, workout logging | SwiftUI, Apple Watch, .NET API |
-| **Kadr** | 🔨 Building | Native vertical video editor for Apple devices with on-device AI, built for 9:16 workflows | Swift 6, iOS/macOS, On-device AI |
-| **Cashflow** | 🔒 Private | Multi-surface finance product — Fastify backend, React web, Expo mobile client | React, Fastify, Expo |
-| **Lux** | 🔒 Private | React/TypeScript web product, separate surface in the stack | React, TypeScript, Vite |
+| Project | What it is | Stack | Status |
+| --- | --- | --- | --- |
+| **Zryw** | Workout log with an AI coach that reads your own training history. iPhone, Apple Watch, Android, Wear OS and web. Offline-first. | Swift, Kotlin, .NET, React | iOS 1.0.0 in App Store review, Android in progress. [zryw.app](https://zryw.app) |
+| **Whisperio** | Dictation for any app: press a hotkey, speak, the text is pasted. Free, uses your own AI key or offline local models. | Electron, TypeScript, Swift | Desktop 1.5.0 for Windows, macOS and Linux. iOS in TestFlight, Android next. [Site](https://whisperio.danielkasprzyk.com) / [Source](https://github.com/draenger/whisperio) (source-available) |
+| **rezme** | CV builder that tailors your resume to a specific job offer and keeps it ATS-readable. | .NET, React, Python, PostgreSQL | Live. [rezme.dev](https://rezme.dev) |
+| **Jarvis** | My personal AI assistant. A .NET hub on a VPS, an Electron desktop client with a holographic HUD, and an iOS app. Includes Sentinel, a security scanner, and Studio, a video editor and demo recorder. | .NET, Electron, Swift, PostgreSQL | Private, in daily use |
+| **Spektra** | Desktop app for analysing fluorescence spectra of blood serum. I develop it for Zuzanna Buryan, who owns the project. | Electron, TypeScript, Python | Private |
+| **Navigator** | Blish HUD module for Guild Wars 2 that tells you what to do next to reach your goals (legendaries, collections, achievements) fastest. | C#, Blish HUD | In development |
 
-## Let's connect
+Smaller and older things: [Egzaminownia](https://egzaminownia.pl) (exam prep for Polish students, .NET + React), AI News Digest (scraped and LLM-curated AI news, .NET + Next.js), Kadr (vertical video editor for Apple devices, Swift), and a couple of Unity game prototypes.
 
-[![Portfolio](https://img.shields.io/badge/draenger.github.io-060a0f?style=for-the-badge&logo=google-chrome&logoColor=00e5ff)](https://draenger.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kasprzyk/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/draenger)
-[![Rezme](https://img.shields.io/badge/rezme.dev-9db8ff?style=for-the-badge&logoColor=white)](https://rezme.dev)
+## Contact
+
+[draenger.github.io](https://draenger.github.io) · [LinkedIn](https://www.linkedin.com/in/daniel-kasprzyk/)
